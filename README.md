@@ -1,7 +1,13 @@
-### Hi there 👋
-### Here will be my Summary Page, but a bit later 😉👌 
+![# AnnaBeda-ab/AnnaBeda-ab summary](https://repository-images.githubusercontent.com/778369177/0b532ef9-0315-49f6-9edf-83496ae0f399)
 
-<!--
+<!-- TABLE OF CONTENTS -->
+
+
+###  I am Hanna Beda, I am QA engineer 👋
+###  Looking for opportunities to work in a progressive company
+###  Focused on the continuous development of my professional skills and promises
+###  Get used to looking wider direct duties
+
 **AnnaBeda-ab/AnnaBeda-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
