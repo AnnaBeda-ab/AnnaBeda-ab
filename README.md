@@ -1,14 +1,16 @@
-![# AnnaBeda-ab/AnnaBeda-ab summary](https://repository-images.githubusercontent.com/778369177/0b532ef9-0315-49f6-9edf-83496ae0f399)
-
 <!-- TABLE OF CONTENTS -->
 
-
-###  I am Hanna Beda, I am QA engineer 👋
+##  I am Hanna Beda, I am QA engineer 👋   
+![logo](https://github.com/AnnaBeda-ab/AnnaBeda-ab/blob/main/QAlogo.jfif)
 ###  Looking for opportunities to work in a progressive company
 ###  Focused on the continuous development of my professional skills and promises
 ###  Get used to looking wider direct duties
+###  My 10+ years of manager experience provide me with 
+#### > the ability to work and analyze a huge amount of information
+#### > good communication and problem solving skills
+#### > to be self-organised and responsible
 
-**AnnaBeda-ab/AnnaBeda-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  **AnnaBeda-ab/AnnaBeda-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
