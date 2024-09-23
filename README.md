@@ -16,6 +16,12 @@
 - [X] **to be self-organized and responsible**
 
 ## I as a part of the Company can increase its progress and importance
+### The demonstration of my skills:
+- [X] **[Test design](https://github.com/AnnaBeda-ab/PF_Test-Analysis-Design)**
+- [X] **[SQL](https://github.com/AnnaBeda-ab/PF_SQL)**
+- [X] **[Bug Reports](https://github.com/AnnaBeda-ab/PF_bugsInProd)**
+- [X] **[API](https://github.com/AnnaBeda-ab/PF_API)**
+
 <!--  **AnnaBeda-ab/AnnaBeda-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
